@@ -2,10 +2,15 @@ Smart Serre
 Ce projet consiste en une serre intelligente capable de surveiller et de contrôler divers paramètres environnementaux pour optimiser la croissance des plantes. Les capteurs utilisés sont les suivants :
 
 Capteur de température
+
 Capteur d'humidité de sol
+
 Capteur de mouvement PIR
+
 Capteur de gaz
+
 Capteur ultrasonique
+
 Le projet est écrit en C++ et utilise une combinaison de matériel et de logiciel pour fonctionner de manière autonome.
 
 Fonctionnalités
