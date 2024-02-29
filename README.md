@@ -1,4 +1,5 @@
 Smart Serre
+
 Ce projet consiste en une serre intelligente capable de surveiller et de contrôler divers paramètres environnementaux pour optimiser la croissance des plantes. Les capteurs utilisés sont les suivants :
 
 Capteur de température
