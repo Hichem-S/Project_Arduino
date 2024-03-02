@@ -26,24 +26,14 @@ Contrôle de l'arrosage basé sur les niveaux d'humidité du sol.
 
 Notification d'alertes et de rapports via une interface utilisateur conviviale.
 
-** Installation
 
-Cloner le dépôt : git clone https://github.com/Project_Arduino/Project_Arduino.git
+Connecter les capteurs au Arduino ou à tout autre microcontrôleur
 
-Installer les dépendances : cd Project_Arduino && make install
-
-Compiler le code : make
-
-Connecter les capteurs au Arduino ou à tout autre microcontrôleur compatible.
-
-Exécuter le programme : ./Project_Arduino
-
-** Configuration
-
-Modifier le fichier config.h pour définir les seuils de température, d'humidité et de gaz.
 
 Configurer les notifications et les rapports en fonction de vos besoins.
 
 ** Contribution
 
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue pour signaler un bug ou proposer une nouvelle fonctionnalité
+Les contributions sont les bienvenues ! 
+
+N'hésitez pas à ouvrir une issue pour signaler un bug ou proposer une nouvelle fonctionnalité
